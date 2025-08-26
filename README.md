@@ -1,6 +1,6 @@
 # Predicción de Precios de Propiedades en Argentina
 
-Este proyecto tiene como objetivo el desarrollo de un modelo predictivo para estimar el precio de propiedades en el mercado inmobiliario argentino, utilizando datos estructurados, geográficos y enriquecidos a través de APIs.
+Este proyecto tiene como objetivo el desarrollo de un modelo predictivo para estimar el precio de propiedades en el mercado inmobiliario argentino.
 
 ## 🧠 Descripción del proyecto
 
